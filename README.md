@@ -1,11 +1,5 @@
 # Michael Musselman
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0eaac8ad-f7f0-4702-9135-e2e935ea2b2c"
-       width="320"
-       alt="Michael Musselman">
-</p>
-
 
 ## Skills & Qualities
 
