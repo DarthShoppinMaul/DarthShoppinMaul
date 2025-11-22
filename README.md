@@ -6,7 +6,7 @@
 **Second-year Computer Systems Technology student** pivoting from 18+ years in retail operations & buying into software and data. I combine business sense with hands-on engineering: clear requirements, maintainable code, and measurable outcomes.
 
 > **Location:** Saskatoon, SK • **Email:** musselman1881@saskpolytech.ca  
-> **Portfolio:** (add your GitHub Pages URL once live)
+> **Portfolio:** https://darthshoppinmaul.github.io/
 
 ---
 
