@@ -7,6 +7,7 @@
 
 > **Location:** Saskatoon, SK • **Email:** musselman1881@saskpolytech.ca  
 > **Portfolio:** https://darthshoppinmaul.github.io/
+> **LinkedIn:** https://www.linkedin.com/in/michael-musselman-421113391/
 
 ---
 
