@@ -28,7 +28,7 @@
 
 ---
 
-## What I’m Good At (Qualities)
+## What I’m Good At 
 - **Clarity:** Break work into small, testable pieces and keep naming, routing, and data shapes consistent.
 - **Communication:** Translate requirements between technical and non-technical stakeholders; write crisp docs.
 - **Ownership:** From “why” to “how”: plan, implement, test, and reflect on outcomes.
